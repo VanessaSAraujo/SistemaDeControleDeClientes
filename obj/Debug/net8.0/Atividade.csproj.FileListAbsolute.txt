@@ -1,0 +1,14 @@
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\bin\Debug\net8.0\Atividade.exe
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\bin\Debug\net8.0\Atividade.deps.json
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\bin\Debug\net8.0\Atividade.dll
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\bin\Debug\net8.0\Atividade.pdb
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\Atividade.dll
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\Atividade.pdb
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+F:\hyd antigo\Programação Full Stack\Backend\codificação backend\Sp2\Projeto\Atividade\obj\Debug\net8.0\ref\Atividade.dll
